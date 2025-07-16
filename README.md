@@ -25,7 +25,7 @@ The goal was to understand insights like sales, profit, and trends across region
 - Monthly sales increased towards the end of the year
 
   OUTPUT:
-  https://public.tableau.com/app/profile/d.bhargavi/viz/Task-3DashboardDevelopment/Dashboard1?publish=yes
+  View Dashboard on Tableau Public:  https://public.tableau.com/app/profile/d.bhargavi/viz/Task-3DashboardDevelopment/Dashboard1?publish=yes
 
  Screenshots:
 
